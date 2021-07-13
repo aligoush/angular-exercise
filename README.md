@@ -2,7 +2,7 @@
 <body>
     <h1 align="center">Angular</h1>
 
-<div>It is proposed to generate a form with Angular that allows to create, edit, modify
+<div>Generate a form with Angular that allows to create, edit, modify
         and delete a list of people.
         For this purpose you can use the class created in TypeScript practice, Persona,
         although it will not be necessary to provide the Address, Telephone and Mail fields.</div>
