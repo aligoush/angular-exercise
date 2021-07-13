@@ -1,6 +1,7 @@
+# Angular
+## Samsung Bootcamp Labs
 
 <body>
-    <h1 align="center">Angular</h1>
 
 <div>Generate a form with Angular that allows to create, edit, modify
         and delete a list of people.
